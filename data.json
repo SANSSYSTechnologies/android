@@ -1,0 +1,4 @@
+[
+  { "id": 0, "name" : "Web Development", "imagePath" : "https:/image", "description": "descripton" },
+  { "id": 1, "name" : "CSS/HTML", "imagePath" : "", "description": "descripton" }
+]
