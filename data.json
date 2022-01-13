@@ -1,4 +1,5 @@
 [
-  { "id": 0, "name" : "Web Development", "imagePath" : "https:/image", "description": "descripton" },
-  { "id": 1, "name" : "CSS/HTML", "imagePath" : "", "description": "descripton" }
+  { "id": 0, "name" : "Python", "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/python.png.png", "description": "descripton" },
+  { "id": 1, "name" : "CSS/HTML", "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/css.jpg", "description": "descripton" },
+  { "id": 2, "name" : "Computer Basics", "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/computer-basics.png", "description": "descripton" }
 ]
