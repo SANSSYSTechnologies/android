@@ -26,22 +26,22 @@
     "id": 1, 
     "name" : "CSS/HTML", 
     "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/css.jpg", 
-    "description": "descripton" ,
+    "description": "You'll learn how to use this tree-like structure to create websites. You'll also learn how to apply styling to a website through CSS. You'll learn about CSS syntax, selectors, and units. Along the way, you'll also learn about code editors and a browser's Developer Tools." ,
     "list": [
         {
             "link": "i-XcMUX3aro",
             "title": "HTML Tags and Attributes",
-            "decription": " description about video"
+            "decription": "basic html tags such as br,<input>,<selection> desciption"
         },
         {
             "link": "dpsjFGbUE1U",
             "title": "HTML Form",
-            "decription": " description about video"
+            "decription": "it provides basic as well as advance knowledge how to use form tag in any html website."
         },
         {
             "link": "VjU8tl3i06Q",
             "title": "HTML Full Course for beginners",
-            "decription": " description about video"
+            "decription": "It contains contents for those who do not have prior knowlegde of HTML/CSS"
         }
     ] 
   },
