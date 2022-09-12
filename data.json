@@ -108,5 +108,136 @@
             "decription": "This video covers how to build up registration form in website."
         }
     ] 
+  },
+ { 
+    "id": 3, 
+    "name" : "Microsoft Word Tutorial For Beginners", 
+    "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/css.jpg", 
+    "description": "Microsoft Word" ,
+    "list": [
+        {
+            "link": "CEvCXZD2KrA",
+            "title": "Microsoft Word Tutorial for Beginners Part-1",
+            "decription": "This video cover the basics of using Microsoft Word, including how to format text, cut, copy, format painter and other options "
+        },
+        {
+            "link": "pG9rJx-8WdQ",
+            "title": "Microsoft Word Tutorial Part-2 ",
+            "decription": "This video cover the basics of using Microsoft Word, including alignments, find, search and other options. "
+        },
+        {
+            "link": "hC-6S0hP9e0",
+            "title": "How to use Design Tab and layout tab ",
+            "decription": " How to use Design Tab and layout tab in MS Word 2016 | All option of Design tab and Layout tab use of themes, use of documents formatting, use of theme color, use of theme fonts, Watermark, Page Color, Page border etc" 
+        },
+     {
+            "link": "FHCTA9JlBe0",
+            "title": "(References Tab)",
+            "decription": " How to use References Tab in MS Word 2016 | All option of References tab " 
+        },
+     {
+            "link": "x1Oqa60SBB4",
+            "title": "Insert Tab in MS Word 2016",
+            "decription": " How to use insert Tab in MS Word 2016 | " 
+        },
+     {
+            "link": "ndc-gLbpcsY",
+            "title": "formulas in MS word document ",
+            "decription": " Microsoft Word Tutorial | formulas in MS word document" 
+        }
+    ] 
+  },
+ { 
+    "id": 4, 
+    "name" : "HTML Tutorial For Beginners", 
+    "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/css.jpg", 
+    "description": "HTML Tutorial For Beginners" ,
+    "list": [
+        {
+            "link": "i-XcMUX3aro",
+            "title": "HTML Tags & Attributes",
+            "decription": "HTML Tags, This video covers how to use HTML tags along with syntax and output. "
+        },
+        {
+            "link": "dpsjFGbUE1U",
+            "title": "HTML Input tag with attributes",
+            "decription": " In this tutorial, I will show you how to use input tag in html  in Hindi with type, max, maxlength, min, multiple, name, placeholder, readonly, required, size, src, step, attribute. "
+        },
+        {
+            "link": "VjU8tl3i06Q",
+            "title": "HTML Full Course",
+            "decription": "This video covers how to use HTML tags along with syntax and output.  " 
+        }
+    ] 
+  },
+ { 
+    "id": 5, 
+    "name" : "Microsoft PowerPoint Tutorial", 
+    "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/css.jpg", 
+    "description": "Microsoft PowerPoint Tutorial" ,
+    "list": [
+        {
+            "link": "JMjlcR1x_zY",
+            "title": "How To Create a PowerPoint Presentation ",
+            "decription": "In this video we will learn how to create a Microsoft PowerPoint Presentation step by step."
+        },
+        {
+            "link": "68yukiYQYOs",
+            "title": "Home Tab ",
+            "decription": "In this video we will learn how to create a Microsoft PowerPoint Presentation step by step."
+        },
+        {
+            "link": "AsbYSRA0_sg",
+            "title": "Insert Tab",
+            "decription": "In this video we will learn how to use different options in insert tab in Microsoft PowerPoint" 
+        },
+     {
+            "link": "qcYo2dxtnsg",
+            "title": "Design & Animation ",
+            "decription": "In this video we will learn how to use different options in design and animation tab in Microsoft PowerPoint" 
+        },
+     {
+            "link": "n30Pyp5Qmlo",
+            "title": "PowerPoint Presentation| Automation",
+            "decription": "In this video, we will learn how to use programming in Microsoft PowerPoint" 
+        },
+     {
+            "link": "oD7huIQoQPc",
+            "title": " Complete PowerPoint Presentation Tutorial",
+            "decription": "MS PowerPoint Tutorial in Hindi | Complete PowerPoint Presentation  | PowerPoint Tutorial " 
+        }
+    ] 
+  },
+ { 
+    "id": 6, 
+    "name" : "Computer Fubdamentals", 
+    "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/css.jpg", 
+    "description": "Computer Fubdamental" ,
+    "list": [
+        {
+            "link": "tMgTG6vBSR4",
+            "title": "Cut, Copy & Delete Folder",
+            "decription": "In this tutorial, I will show you how to create a folder,  copy a folder and delete a folder. we will also learn some shortcut keys :"
+        },
+        {
+            "link": "M-aHMl5dZjw",
+            "title": "How to Check Computer/Laptop Configuration",
+            "decription": "In this video,  i will show you How to check computer or laptop configuration in Windows operating system."
+        }
+    ] 
+  },
+ { 
+    "id": 7, 
+    "name" : "Learn Telly", 
+    "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/css.jpg", 
+    "description": "Learn Telly" ,
+    "list": [
+        {
+            "link": "7qnJ7nU1PBE",
+            "title": "INTRODUCTION to TALLY PRIME",
+            "decription": "Learn about TALLY PRIME, Tally Latest Version, Gateway of Tally, Company Creation, and Accounts with Inventory all detailed step by step in Hindi."
+        }
+        
+    ] 
   }
 ]
