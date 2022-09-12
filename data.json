@@ -1,29 +1,6 @@
 [
   { 
     "id": 0, 
-    "name" : "Python", 
-    "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/python.png.png", 
-    "description": "descripton",
-    "list": [
-        {
-            "link": "V8kbs-toSII",
-            "title": "computer Basics",
-            "decription": " description about video"
-        },
-        {
-            "link": "M-aHMl5dZjw",
-            "title": "computer Basics",
-            "decription": " description about video"
-        },
-        {
-            "link": "M-aHMl5dZjw",
-            "title": "computer Basics",
-            "decription": " description about video"
-        }
-    ] 
-  },
-  { 
-    "id": 1, 
     "name" : "CSS/HTML", 
     "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/css.jpg", 
     "description": "You'll learn how to use this tree-like structure to create websites. You'll also learn how to apply styling to a website through CSS. You'll learn about CSS syntax, selectors, and units. Along the way, you'll also learn about code editors and a browser's Developer Tools." ,
@@ -46,25 +23,29 @@
     ] 
   },
   { 
-    "id": 2, 
-    "name" : "Computer Basics", 
-    "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/computer-basics.png", 
-    "description": "descripton" ,
+    "id": 1, 
+    "name" : "Window Command line", 
+    "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/css.jpg", 
+    "description": "You'll learn how to use this tree-like structure to create websites. You'll also learn how to apply styling to a website through CSS. You'll learn about CSS syntax, selectors, and units. Along the way, you'll also learn about code editors and a browser's Developer Tools." ,
     "list": [
         {
-            "link": "M-aHMl5dZjw",
-            "title": "computer Basics",
-            "decription": " description about video"
+            "link": "ASpoV5frEX4",
+            "title": "Basic Windows Commands in CMD",
+            "decription": "In this video i will show you some basic windows commands that every user should know."
         },
         {
-            "link": "M-aHMl5dZjw",
-            "title": "computer Basics",
-            "decription": " description about video"
+            "link": "6QiSVn93N_0",
+            "title": "How to use RD, COPYCON, IPCONFIG",
+            "decription": "Friends in this video tutorial I am going to show you how to create a folder, how to enter in any folder by using cmd commands and how to check system IP address which will be very useful for IT students"
         },
         {
-            "link": "M-aHMl5dZjw",
-            "title": "computer Basics",
-            "decription": " description about video"
+            "link": "EeiqRGiWuw",
+            "title": "Network Troubleshooting using Ping, Tracert, NSlookup",
+            "decription": "1. Ping : It is used to check the network connectivity between host to host/server.  In a simple way it is used to verify that a computer can communicate over the network with another computers or other network devices. 
+
+2. Tracert : It is used to show details about the path that a packet takes from the source to destination 
+
+3. Nslookup : this command fethches the dns record for a given domain or ip address."
         }
     ] 
   }
