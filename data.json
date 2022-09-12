@@ -106,6 +106,85 @@
             "link": "pmcQhaJLihg",
             "title": "Registration form in VS CODE",
             "decription": "This video covers how to build up registration form in website."
+        },
+     {
+            "link": "3If5SzO72Dk",
+            "title": "HTML iframe Tag",
+            "decription": "This video covers how to use Iframe tag in HTML web page.."
+        },
+     {
+            "link": "plbgirpGUmg",
+            "title": "HTML Audio & Video Tag ",
+            "decription": "This video covers how to use HTML 5 audio & video tag in HTML web page."
+        },
+     {
+            "link": "LzhWeY3gY5Y",
+            "title": "Inline & Internal CSS",
+            "decription": "This video covers how to use inline and internal CSS in  HTML web page. "
+        },
+     {
+            "link": "KvemR1lmE10",
+            "title": "External CSS",
+            "decription": "This video covers how to use external CSS in  HTML web page. "
+        },
+     {
+            "link": "sRsKj078_I8",
+            "title": "how to make responsive webpage",
+            "decription": "This video covers how to make responsive web designs using CSS properties  in  HTML web page. "
+        },
+     {
+            "link": "Pjt-dM9Eb-8",
+            "title": "CSS Functions",
+            "decription": "This video covers how to use CSS linear gradient function and radial gradient function. "
+        },
+     {
+            "link": "4oQPhOtpyDM",
+            "title": "How to Create a Menu bar",
+            "decription": "In this video, I have shown you how to create menu bar using html and CSS only"
+        },
+     {
+            "link": "8o7ISp9aqyo",
+            "title": "Website Layout Using HTML & CSS",
+            "decription": "In this video, I have shown you how to create basic website layout using html and CSS only"
+        },{
+            "link": "2zPHTGitct8",
+            "title": "Introduction to JavaScript",
+            "decription": "This video covers introduction of JavaScript, JavaScript variable declaration with example"
+        },
+     {
+            "link": "rrSackJNquA",
+            "title": "JavaScript Operators ",
+            "decription": "This video covers JavaScript operators with example"
+        },
+     {
+            "link": "KN7Hon6NHU0",
+            "title": "JavaScript Logical Operators",
+            "decription": "This video covers JavaScript logical operators with example"
+        },
+     {
+            "link": "IDIXoA7r6rg",
+            "title": "JavaScript Data types",
+            "decription": "This video covers JavaScript data types with example."
+        },
+     {
+            "link": "ylGo-sdnoso",
+            "title": "JavaScript Output",
+            "decription": "This video covers different ways to display output in JavaScript with example"
+        },
+     {
+            "link": "nQjf0bF5jo8",
+            "title": " JavaScript Functions",
+            "decription": "This video covers functions  in JavaScript with example"
+        },
+     {
+            "link": "cIPgLjXLG7Y",
+            "title": "Animation in CSS",
+            "decription": "Animation using CSS properties"
+        },
+     {
+            "link": "V8kbs-toSII",
+            "title": " WAMP Installation & First PHP Program",
+            "decription": "PHP stands for Hypertext Preprocessor. PHP is an open-source server-side scripting language used for dynamic web development and can be embedded into HTML code. "
         }
     ] 
   },
