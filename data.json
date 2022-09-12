@@ -41,11 +41,7 @@
         {
             "link": "EeiqRGiWuw",
             "title": "Network Troubleshooting using Ping, Tracert, NSlookup",
-            "decription": "1. Ping : It is used to check the network connectivity between host to host/server.  In a simple way it is used to verify that a computer can communicate over the network with another computers or other network devices. 
-
-2. Tracert : It is used to show details about the path that a packet takes from the source to destination 
-
-3. Nslookup : this command fethches the dns record for a given domain or ip address."
+            "decription": " Ping, Tracert,  Nslookup " 
         }
     ] 
   }
