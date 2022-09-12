@@ -30,8 +30,31 @@
     "list": [
         {
             "link": "ASpoV5frEX4",
-            "title": "Basic Windows Commands in CMD",
+            "title": "Basic Windows Commands",
             "decription": "In this video i will show you some basic windows commands that every user should know."
+        },
+        {
+            "link": "6QiSVn93N_0",
+            "title": "RD, COPYCON, IPCONFIG",
+            "decription": "Friends in this video tutorial I am going to show you how to create a folder, how to enter in any folder by using cmd commands and how to check system IP address which will be very useful for IT students"
+        },
+        {
+            "link": "EeiqRGiWuw",
+            "title": "Network Troubleshooting ",
+            "decription": " Ping, Tracert,  Nslookup " 
+        }
+    ] 
+  },
+   { 
+    "id": 2, 
+    "name" : "Microsoft Excel", 
+    "imagePath" : "https://raw.githubusercontent.com/SANSSYSTechnologies/android/main/css.jpg", 
+    "description": "Excel Tutorial for Beginners in Hindi " ,
+    "list": [
+        {
+            "link": "6LS9uKobV_s",
+            "title": "Excel Tutorial for Beginners in Hindi ",
+            "decription": "Excel Tutorial for Beginners in Hindi ."
         },
         {
             "link": "6QiSVn93N_0",
